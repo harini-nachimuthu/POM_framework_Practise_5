@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-19T16:27:12 IST" name="Default suite" finished-at="2024-08-19T16:27:18 IST" duration-ms="5337">
+    <groups>
+    </groups>
+    <test started-at="2024-08-19T16:27:12 IST" name="Default test" finished-at="2024-08-19T16:27:18 IST" duration-ms="5337">
+      <class name="Testcase_4.TC_4">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:Testcase_4.TC_4@3cce5371]" started-at="2024-08-19T16:27:11 IST" name="beforeSuite" finished-at="2024-08-19T16:27:12 IST" duration-ms="1263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforecls()[pri:0, instance:Testcase_4.TC_4@3cce5371]" started-at="2024-08-19T16:27:12 IST" name="beforecls" finished-at="2024-08-19T16:27:14 IST" duration-ms="1786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforecls -->
+        <test-method signature="f()[pri:0, instance:Testcase_4.TC_4@3cce5371]" started-at="2024-08-19T16:27:14 IST" name="f" finished-at="2024-08-19T16:27:18 IST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:Testcase_4.TC_4@3cce5371]" started-at="2024-08-19T16:27:18 IST" name="afterSuite" finished-at="2024-08-19T16:27:18 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Testcase_4.TC_4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
